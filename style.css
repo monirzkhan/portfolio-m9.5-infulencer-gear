@@ -117,7 +117,8 @@
 
 .arrow {
     display: inline;
-    padding-left: 15px;
+    padding-left: 10px;
+    width: auto;
 }
 
 /* Clients Style  */
